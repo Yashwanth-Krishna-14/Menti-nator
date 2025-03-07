@@ -1,5 +1,7 @@
 # Mentinator
 
+YouTube link - https://www.youtube.com/watch?v=uVRIRredGnA
+
 ## Overview
 
 Mentinator is an expert consultation AI-powered platform using pre-trained LLM Sentence Transformers models and a career acceleration platform designed to connect mentees with mentors across various engineering fields, content creation, and other career paths. Unlike traditional mentorship platforms, Mentinator leverages NLP-based intelligent matching and dynamic filtering to provide high-impact career guidance.
