@@ -56,3 +56,4 @@ D, I = index.search(np.array([query_embedding.cpu().numpy()]), k=2)  # Get top 2
 #step-12- Display matched mentors (only ID and name)
 for idx in I[0]:
    print("Mentor ID:", mentors[idx]['id'], "| Name:", mentors[idx]['name'], "| Bio:",mentors[idx]['bio'])
+   
