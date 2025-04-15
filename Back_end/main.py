@@ -42,7 +42,7 @@ index = faiss.IndexFlatL2(mentor_embeddings_np.shape[1])  # L2 distance (Euclide
 index.add(mentor_embeddings_np)
 
 # User query
-user_query = "i wanna learn about finance  "
+user_query = "i like finance "
 query_embedding = model.encode(user_query, convert_to_tensor=True)
 
 # Search for the closest mentor
